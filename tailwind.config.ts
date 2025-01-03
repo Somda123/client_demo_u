@@ -12,6 +12,9 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      boxShadow: {
+        "bottom-white": "0 4px 6px -1px rgba(255, 255, 255, 0.5)", // White shadow at the bottom
+      },
     },
   },
   plugins: [],
